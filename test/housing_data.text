@@ -1,0 +1,30 @@
+                                       Name  ...  Turbo
+ID                                           ...       
+lr                        Linear Regression  ...   True
+lasso                      Lasso Regression  ...   True
+ridge                      Ridge Regression  ...   True
+en                              Elastic Net  ...   True
+lar                  Least Angle Regression  ...   True
+llar           Lasso Least Angle Regression  ...   True
+omp             Orthogonal Matching Pursuit  ...   True
+br                           Bayesian Ridge  ...   True
+ard       Automatic Relevance Determination  ...  False
+par            Passive Aggressive Regressor  ...   True
+ransac              Random Sample Consensus  ...  False
+tr                       TheilSen Regressor  ...  False
+huber                       Huber Regressor  ...   True
+kr                             Kernel Ridge  ...  False
+svm               Support Vector Regression  ...  False
+knn                   K Neighbors Regressor  ...   True
+dt                  Decision Tree Regressor  ...   True
+rf                  Random Forest Regressor  ...   True
+et                    Extra Trees Regressor  ...   True
+ada                      AdaBoost Regressor  ...   True
+gbr             Gradient Boosting Regressor  ...   True
+mlp                           MLP Regressor  ...  False
+xgboost           Extreme Gradient Boosting  ...   True
+lightgbm    Light Gradient Boosting Machine  ...   True
+catboost                 CatBoost Regressor  ...   True
+dummy                       Dummy Regressor  ...   True
+
+[26 rows x 3 columns]
